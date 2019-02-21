@@ -1,0 +1,12 @@
+{
+  "name": "myheroku-study",
+  "version": "1.0.0",
+  "description": "헤로쿠 강좌",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "2dd",
+  "license": "ISC"
+}
